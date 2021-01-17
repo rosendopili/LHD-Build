@@ -1,11 +1,11 @@
 # LHD-Build
 LHD:Build projects
 
-##Prompt: 
+## Prompt: 
 *   Re-design an existing website
 
-##Tools used:
+## Tools used:
 * HTML/ CSS
 
-##Difficulty level: 
+## Difficulty level: 
 * Beginner
